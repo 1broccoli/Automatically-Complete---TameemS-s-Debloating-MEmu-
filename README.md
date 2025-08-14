@@ -44,5 +44,10 @@ See `VERIFY.md` for a quick checklist (accessibility enabled, APKs installed, ho
 - Debloating guide and original block lists: https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8
 - LauncherHijack project and HELP: https://github.com/BaronKiko/LauncherHijack
 
+Example of Powershell script:
+<img width="1123" height="888" alt="image" src="https://github.com/user-attachments/assets/c5ef88ec-a5af-46f6-b91b-0f74af2603b1" />
+
+
 ## License
 Add a license for your repository (e.g., MIT). If omitted, GitHub will show the project as unlicensed.
+
