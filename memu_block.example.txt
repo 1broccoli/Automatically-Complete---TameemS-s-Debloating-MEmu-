@@ -1,0 +1,7 @@
+# Example IP block list for MEmu-related telemetry/ads
+# Copy this file to memu_block.txt to enable firewall rules.
+# Comma or whitespace separated. Lines and comments are ignored.
+# Sample (truncated):
+111.8.31.236, 114.215.159.204, 221.194.169.66
+121.22.238.237 121.22.238.244 60.163.132.161
+# Add more as needed…
