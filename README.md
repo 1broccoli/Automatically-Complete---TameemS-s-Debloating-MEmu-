@@ -26,6 +26,7 @@ Automation helpers to debloat MEmu and set up LauncherHijack across all instance
 Defaults
 - Prefers `LauncherHijack-master\app\app-release.apk` if present; otherwise looks in `Downloads\MEmu Download`, else auto-downloads from GitHub.
 - Extra APKs: place under your `Downloads\MEmu Download` folder (e.g., `C:\Users\<You>\Downloads\MEmu Download`).
+[https://github.com/BaronKiko/LauncherHijack/tree/master](https://github.com/BaronKiko/LauncherHijack/releases)
 
 ## Shipping only this folder
 - This `automation/` folder is sufficient to run on another machine if MEmu is installed.
@@ -50,4 +51,5 @@ Example of Powershell script:
 
 ## License
 Add a license for your repository (e.g., MIT). If omitted, GitHub will show the project as unlicensed.
+
 
