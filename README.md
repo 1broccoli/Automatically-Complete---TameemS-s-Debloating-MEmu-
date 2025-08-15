@@ -1,4 +1,5 @@
 # MEmu Debloat & LauncherHijack Automation
+*unzipping should have folder as "Automation" not memu-debload-automation & must be in the "c:\program files\microvert\" directory*
 
 ![language](https://img.shields.io/badge/PowerShell-5%2B-5391FE?logo=powershell)
 ![os](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows)
@@ -51,5 +52,6 @@ Example of Powershell script:
 
 ## License
 Add a license for your repository (e.g., MIT). If omitted, GitHub will show the project as unlicensed.
+
 
 
